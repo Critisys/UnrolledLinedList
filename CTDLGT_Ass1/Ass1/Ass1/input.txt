@@ -1,0 +1,459 @@
+u 4
+a 3 
+a 1
+a 2
+p
+d 2
+i 1 2
+l 8
+p 
+d 1
+p 
+u 3
+u 4
+a 1
+a 2
+a 4
+a 5
+a 6
+r 
+p
+s 4 10
+t 
+c 9
+s 0 3
+i 3 7
+g 0
+d 4
+f 6
+t 
+f 0
+r 
+p
+a 2
+r 
+i 1 2
+i 3 41
+i 6 11
+s 4 15
+c 6
+i 2 33
+s 3 15
+f 2
+g 6
+c 2
+i 3 1
+s 9 8
+c 8
+f 3
+t 
+g 9
+l 7
+p 
+t 
+f 9
+a 7
+t 
+r
+r
+t 
+s 0 19
+t 
+g 1
+l 9
+s 8 9
+g 4
+f 0
+l 6
+i 4 10
+i 0 8
+d 10
+t 
+l 4
+a 5
+g 1
+i 3 15
+t 
+t 
+a 5
+t 
+a 3
+s 7 11
+a 8
+a 4
+r 
+d 11
+r 
+a 2
+t 
+i 7 14
+l 3
+c 5
+p 
+w
+a 2
+s 4 7
+c 6
+r 
+p 
+r 
+d 4
+a 6
+g 0
+p 
+c 7
+f 9
+c 5
+c 3
+l 9
+c 1
+a 7
+t 
+f 2
+f 4
+p 
+a 3
+t 
+s 4 13
+f 0
+g 1
+a 1
+f 1
+f 7
+g 5
+f 3
+t 
+g 1
+d 2
+t 
+c 4
+d 15
+r 
+p 
+l 8
+f 6
+p 
+p 
+r 
+f 7
+s 4 3
+c 4
+p 
+t 
+l 9
+i 8 13
+t 
+c 9
+r 
+p 
+c 7
+g 1
+s 7 18
+a 6
+d 7
+g 3
+g 8
+r 
+c 6
+g 8
+p 
+p 
+s 2 11
+s 9 18
+i 6 5
+r 
+p 
+d 6
+c 9
+s 0 14
+f 0
+p 
+a 1
+r 
+i 3 11
+g 2
+i 3 13
+f 6
+i 0 8
+a 4
+f 7
+s 0 5
+d 10
+t 
+s 5 8
+a 9
+a 1
+c 9
+i 8 18
+g 3
+d 6
+a 2
+c 0
+a 8
+t 
+t 
+a 7
+g 5
+r 
+c 2
+l 2
+c 1
+p 
+a 4
+g 8
+l 6
+g 3
+d 2
+p 
+d 18
+p 
+l 4
+p 
+d 12
+f 1
+a 1
+d 5
+g 2
+r 
+c 2
+r 
+p 
+a 6
+d 5
+s 4 14
+s 8 3
+p 
+a 8
+r 
+f 9
+p 
+f 3
+p 
+t 
+s 4 14
+d 1
+s 7 17
+d 0
+c 2
+c 7
+p 
+d 14
+t 
+c 5
+s 9 15
+r 
+s 2 8
+t 
+p 
+g 4
+r 
+i 7 8
+c 1
+p 
+r 
+f 1
+i 0 8
+d 17
+r 
+r 
+d 5
+d 8
+s 2 8
+f 2
+t 
+p 
+t 
+l 0
+s 3 11
+t 
+l 4
+c 8
+i 0 12
+r 
+d 3
+f 8
+t 
+t 
+f 4
+c 3
+i 2 10
+d 19
+f 9
+g 5
+f 2
+s 3 5
+l 7
+i 8 14
+r 
+f 6
+i 1 16
+a 5
+f 0
+r 
+g 4
+d 7
+a 1
+a 9
+r 
+t 
+p 
+i 4 12
+c 9
+s 6 19
+l 5
+a 8
+d 1
+c 2
+a 6
+r 
+p 
+t 
+s 2 14
+g 2
+s 6 9
+p 
+d 8
+s 5 12
+s 7 15
+i 4 10
+t 
+s 9 9
+l 5
+t 
+g 7
+l 7
+f 5
+r 
+g 8
+f 5
+l 5
+t 
+d 5
+d 2
+l 5
+s 6 1
+f 9
+r 
+g 6
+c 6
+a 1
+a 4
+g 8
+a 6
+p 
+t 
+l 1
+p 
+r 
+a 2
+l 8
+c 8
+r 
+i 5 19
+a 2
+t 
+g 5
+s 0 10
+p 
+f 4
+p 
+a 4
+t 
+a 9
+r 
+g 8
+t 
+l 2
+r 
+c 5
+s 4 3
+t 
+s 2 14
+g 3
+c 1
+r 
+l 1
+p 
+t 
+c 7
+t 
+f 4
+a 5
+t 
+l 2
+c 3
+f 1
+s 2 14
+g 6
+f 9
+c 4
+d 16
+i 3 15
+i 7 7
+t 
+f 0
+a 0
+f 2
+s 2 2
+g 4
+d 19
+r 
+r 
+l 1
+a 0
+p 
+r 
+r 
+t 
+g 0
+r 
+s 7 2
+l 0
+a 5
+d 6
+l 5
+r 
+a 4
+p 
+f 5
+l 5
+p 
+a 5
+i 8 4
+d 4
+s 9 19
+r 
+c 6
+f 5
+p 
+s 6 1
+a 2
+t 
+g 8
+f 1
+t 
+f 1
+f 6
+d 16
+t 
+l 6
+c 5
+p 
+f 1
+f 1
+a 2
+c 2
+s 0 3
+f 0
+c 0
+t 
+r 
+p 
+d 17
+c 3
+r 
+p 
+d 10
+r 
+i 2 16
+w
